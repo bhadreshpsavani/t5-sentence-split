@@ -29,5 +29,8 @@ Her friends are very nice people.
 - [ ] [byt5-base](https://huggingface.co/google/byt5-base) training on Wiki Split
 - [ ] [t5-large](https://huggingface.co/t5-large) training on Wiki Split
 - [ ] Performance improvement with Research
+- [ ] Streamlit UI for App
 - [ ] Benchmarking Web Split
 - [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
+- [ ] Single Websplit Evaluation Metrics Addition in Huggingface Datasets
+- [ ] Websplit dataset addition in Huggingface Datasets
