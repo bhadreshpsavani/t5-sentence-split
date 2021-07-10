@@ -37,5 +37,5 @@ Our goal is to make best sentence split model available till now
 - [ ] Streamlit UI for App
 - [ ] Benchmarking Web Split
 - [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
-- [ ] Single Websplit Evaluation Metrics Addition in Huggingface Datasets
+- [x] Single Websplit Evaluation Metrics Addition in Huggingface Datasets
 - [ ] Websplit dataset addition in Huggingface Datasets
