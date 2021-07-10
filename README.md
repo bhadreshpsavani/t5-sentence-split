@@ -22,12 +22,14 @@ Her friends are very nice people.
 | --- | --- | --- | --- |
 | [t5-base-wikisplit](https://huggingface.co/flax-community/t5-base-wikisplit) |  17.93 | 67.5438 | 76.9 |
 | [t5-v1_1-base-wikisplit](https://huggingface.co/flax-community/t5-v1_1-base-wikisplit) | 16.84 | 66.38 | 76.32 |
+| [byt5-base-wikisplit](https://huggingface.co/flax-community/byt5-base-wikisplit) | 11.3582 | 67.2685 | 73.1682 |
+| [t5-large-wikisplit](https://huggingface.co/flax-community/t5-large-wikisplit) | 18.4295 | 67.882 | 77.1122 |
 
 ## To Do
 - [x] [t5-base](https://huggingface.co/t5-base) training on Wiki Split
 - [x] [t5-v1_1-base](https://huggingface.co/google/t5-v1_1-base) training on Wiki Split
-- [ ] [byt5-base](https://huggingface.co/google/byt5-base) training on Wiki Split
-- [ ] [t5-large](https://huggingface.co/t5-large) training on Wiki Split
+- [x] [byt5-base](https://huggingface.co/google/byt5-base) training on Wiki Split
+- [x] [t5-large](https://huggingface.co/t5-large) training on Wiki Split
 - [ ] Performance improvement with Research
 - [ ] Streamlit UI for App
 - [ ] Benchmarking Web Split
