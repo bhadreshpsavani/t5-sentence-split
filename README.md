@@ -38,9 +38,10 @@ Our goal is to make best sentence split model available till now
 - [x] [t5-v1_1-base](https://huggingface.co/google/t5-v1_1-base) training on Wiki Split
 - [x] [byt5-base](https://huggingface.co/google/byt5-base) training on Wiki Split
 - [x] [t5-large](https://huggingface.co/t5-large) training on Wiki Split
-- [ ] Performance improvement with Research
 - [x] Streamlit UI for App
-- [ ] Benchmarking Web Split
-- [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
 - [x] Single Websplit Evaluation Metrics Addition in Huggingface Datasets
+- [ ] Tackle Gender Biasness while text generation
+- [ ] Benchmarking Web Split
+- [ ] Performance improvement with Research
+- [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
 - [ ] Websplit dataset addition in Huggingface Datasets
