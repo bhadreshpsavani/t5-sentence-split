@@ -23,12 +23,13 @@ Her friends are very nice people.
 ![baseline](./baseline.png)
 
 ## Our Results:
+
 | Model | Exact | SARI | BLEU |
 | --- | --- | --- | --- |
 | [t5-base-wikisplit](https://huggingface.co/flax-community/t5-base-wikisplit) |  17.93 | 67.5438 | 76.9 |
-| [t5-v1_1-base-wikisplit](https://huggingface.co/flax-community/t5-v1_1-base-wikisplit) | 16.84 | 66.38 | 76.32 |
+| [t5-v1_1-base-wikisplit](https://huggingface.co/flax-community/t5-v1_1-base-wikisplit) | 18.1207 | 67.4873 | 76.9478 |
 | [byt5-base-wikisplit](https://huggingface.co/flax-community/byt5-base-wikisplit) | 11.3582 | 67.2685 | 73.1682 |
-| [t5-large-wikisplit](https://huggingface.co/flax-community/t5-large-wikisplit) | 18.4896 | 67.9555 | 77.12 |
+| [t5-large-wikisplit](https://huggingface.co/flax-community/t5-large-wikisplit) | 18.6632 | 68.0501 | 77.1881 |
 
 ## Challenges:
 Our goal is to make best sentence split model available till now
