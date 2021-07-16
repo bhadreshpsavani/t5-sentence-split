@@ -61,7 +61,7 @@ This comedy drama is produced by Tidy. She co-founded Tidy in 2008 with her husb
 
 * All of our models are having better result for two metrics(Exact and SARI scores) than baseline models
 * Our t5-base-wikisplit and t5-v1_1-base-wikisplit model are achieving comparative results with half model size or weights that will enable faster inferece
-* We added [wikisplit](https://huggingface.co/metrics/wiki_split) metrics which is freely available at huggingface datasets. It will help future researcher and practioner in this task
+* We added [wikisplit](https://huggingface.co/metrics/wiki_split) metrics which is freely available at huggingface datasets. It will be easy to calculate relevent scores for this task from now on
 
 ## To Do
 - [x] [t5-base](https://huggingface.co/t5-base) training on Wiki Split
@@ -72,5 +72,5 @@ This comedy drama is produced by Tidy. She co-founded Tidy in 2008 with her husb
 - [x] Single Websplit Evaluation Metrics Addition in Huggingface Datasets 
 - [x] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
 - [x] Performance improvement with Research
-- [ ] Tackle Gender Biasness while text generation
+- [ ] Tackle Gender Biasness and fairness while text generation
 - [ ] Benchmarking and Experimenting with Web Split
