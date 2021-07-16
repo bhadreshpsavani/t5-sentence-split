@@ -14,6 +14,10 @@ and
 Her friends are very nice people.
 ```
 
+## Demo:
+
+[Huggingface-Spaces](https://huggingface.co/spaces/flax-community/SentenceSimplifier)
+
 ## Application:
 * Sentence Simplification
 * Data Augmentation
@@ -41,8 +45,8 @@ Our goal is to make best sentence split model available till now
 - [x] [t5-large](https://huggingface.co/t5-large) training on Wiki Split
 - [x] Streamlit UI for App
 - [x] Single Websplit Evaluation Metrics Addition in Huggingface Datasets
+- [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
+- [ ] Performance improvement with Research
 - [ ] Tackle Gender Biasness while text generation
 - [ ] Benchmarking Web Split
-- [ ] Performance improvement with Research
-- [ ] Challenge: Get better performance than [roberta2roberta_L-24_wikisplit](https://huggingface.co/google/roberta2roberta_L-24_wikisplit)
 - [ ] Websplit dataset addition in Huggingface Datasets
