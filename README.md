@@ -20,6 +20,7 @@ To make best sentence split model available till now
 ## Demo:
 
 [Huggingface-Spaces](https://huggingface.co/spaces/flax-community/SentenceSimplifier)
+![ui_image](./images/ui_image.png)
 
 ## Application:
 * Sentence Simplification
@@ -27,7 +28,7 @@ To make best sentence split model available till now
 * Sentence Rephrase
 
 ## Current Basline from [paper](https://arxiv.org/abs/1907.12461)
-![baseline](./baseline.png)
+![baseline](./images/baseline.png)
 
 ## Our Results:
 
