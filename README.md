@@ -57,6 +57,12 @@ This comedy drama is produced by Tidy. She co-founded Tidy in 2008 with her husb
 | [byt5-base-wikisplit](https://huggingface.co/flax-community/byt5-base-wikisplit) | 11.3582 | 67.2685 | 73.1682 |
 | [t5-large-wikisplit](https://huggingface.co/flax-community/t5-large-wikisplit) | 18.6632 | 68.0501 | 77.1881 |
 
+## Accomplishment:
+
+* All of our models are having better result for two metrics(Exact and SARI scores) than baseline models
+* Our t5-base-wikisplit and t5-v1_1-base-wikisplit model are achieving comparative results with half model size or weights that will enable faster inferece
+* We added [wikisplit](https://huggingface.co/metrics/wiki_split) metrics which is freely available at huggingface datasets. It will help future researcher and practioner in this task
+
 ## To Do
 - [x] [t5-base](https://huggingface.co/t5-base) training on Wiki Split
 - [x] [t5-v1_1-base](https://huggingface.co/google/t5-v1_1-base) training on Wiki Split
