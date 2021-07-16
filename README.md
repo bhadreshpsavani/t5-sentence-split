@@ -35,8 +35,8 @@ Her friends are very nice people.
 | [byt5-base-wikisplit](https://huggingface.co/flax-community/byt5-base-wikisplit) | 11.3582 | 67.2685 | 73.1682 |
 | [t5-large-wikisplit](https://huggingface.co/flax-community/t5-large-wikisplit) | 18.6632 | 68.0501 | 77.1881 |
 
-## Challenges:
-Our goal is to make best sentence split model available till now
+## Goal:
+To make best sentence split model available till now
 
 ## To Do
 - [x] [t5-base](https://huggingface.co/t5-base) training on Wiki Split
