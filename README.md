@@ -60,7 +60,7 @@ This comedy drama is produced by Tidy. She co-founded Tidy in 2008 with her husb
 ## Accomplishment:
 
 * All of our models are having better result for two metrics(Exact and SARI scores) than baseline models
-* Our t5-base-wikisplit and t5-v1_1-base-wikisplit model are achieving comparative results with half model size or weights that will enable faster inferece
+* Our t5-base-wikisplit and t5-v1_1-base-wikisplit model are achieving comparative results with half model size or weights that will enable faster inference
 * We added [wikisplit](https://huggingface.co/metrics/wiki_split) metrics which is freely available at huggingface datasets. It will be easy to calculate relevent scores for this task from now on
 
 ## Contributors:
