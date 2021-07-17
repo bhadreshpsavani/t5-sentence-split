@@ -18,8 +18,10 @@ Her friends are very nice people.
 To make best sentence split model available till now
 
 ## Demo:
+
+[Check out the Demo](https://huggingface.co/spaces/flax-community/SentenceSimplifier)
+
 ![ui_image](./images/ui_image.png)
-[try-inference](https://huggingface.co/spaces/flax-community/SentenceSimplifier)
 
 ## How to use in your python code:
 ```python
